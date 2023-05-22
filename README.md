@@ -6,4 +6,4 @@ For the python code there are three versions: 1) Using the output on its native 
 
 The code is tested using the output from two Community Atmospheric Model v5 (CAM5) simulations that have both the meridional (VQ) and zonal (UQ) moisture transport terms saved. 
 
-The model output files used for testing are too big for testing so contact me directly if you would like to use them.
+The model output files used for testing are too big to upload so contact me directly if you would like to use them.
